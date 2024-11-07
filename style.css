@@ -8,3 +8,8 @@ h1 {
 p {
   color: red;
 }
+head {
+  font-family: courier;
+  font-size: 160%;
+
+}
